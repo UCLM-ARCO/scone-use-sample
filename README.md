@@ -14,7 +14,7 @@ Modify your `scone-start.lisp` including your knowledge files:
     (scone "1.0.0")
     (load-kb "core.lisp")
 
-    (load-kb "my-knowledge.lisp")
+    (load "my-knowledge.lisp")
 
 
 Launch scone:

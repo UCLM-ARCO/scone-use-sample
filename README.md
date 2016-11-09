@@ -15,4 +15,4 @@ Modify your `scone-start.lisp` including your knowledge files::
 
 Launch scone::
 
-    my-project$ sbcl
+    my-project$ sbcl --load scone-start.lisp

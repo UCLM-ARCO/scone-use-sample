@@ -27,3 +27,6 @@ In the SBCL prompt execute:
 
     * (is-x-a-y? {Clyde} {elephant})
     :YES
+
+
+**This repository is an example of all of this. Clone it**

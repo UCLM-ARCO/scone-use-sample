@@ -1,0 +1,1 @@
+(new-indv {Clyde} {elephant})

@@ -16,3 +16,10 @@ Modify your `scone-start.lisp` including your knowledge files::
 Launch scone::
 
     my-project$ sbcl --load scone-start.lisp
+
+
+In the SBCL prompt execute::
+
+
+    * (is-x-a-y? {Clyde} {elephant})
+    :YES

@@ -1,6 +1,10 @@
+Install scone:
+
+* Add [pike repository](http://pike.esi.uclm.es/)
+* sudo apt install scone
+
 To extend scone KB with your own knowledge::
 
-    $ sudo apt install scone
     my-project$ cp /usr/share/scone/scone-start.lisp .
 
 

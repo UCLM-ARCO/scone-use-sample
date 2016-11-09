@@ -1,7 +1,7 @@
 To extend scone KB with your own knowledge::
 
-  $ sudo apt install scone
-  my-project$ cp /usr/share/scone/scone-start.lisp .
+    $ sudo apt install scone
+    my-project$ cp /usr/share/scone/scone-start.lisp .
 
 
 Modify your `scone-start.lisp` including your knowledge files::
